@@ -5,7 +5,11 @@ info:
   description: |
     Especificación OpenAPI 3.1 completa para los endpoints de documentos de la API de Bsale Chile.
     
+    <b>Versión alfa. No usar en producción</b>
+    
     Basada en <a href="https://docs.bsale.dev/CL">https://docs.bsale.dev/CL</a>
+    
+    Repo: <a href="https://github.com/sebastianromero/bsale-openapi">https://github.com/sebastianromero/bsale-openapi</a>
   license:
     name: MIT
     url: https://opensource.org/licenses/MIT
